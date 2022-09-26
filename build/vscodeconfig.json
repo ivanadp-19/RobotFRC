@@ -1,0 +1,381 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "/Users/felipeivan/wpilib/2022/roborio/bin/arm-frc2022-linux-gnueabi-g++",
+    "cPath": "/Users/felipeivan/wpilib/2022/roborio/bin/arm-frc2022-linux-gnueabi-gcc",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "/Users/felipeivan/.gradle/caches/transforms-3/37e10808a78725ef15f90d09968bfce5/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/c426ba198e52a20874ecb3f4ec167826/transformed/wpilibc-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/045b4149a1eaae27e4df248c7b7f6532/transformed/ntcore-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/ffb7aa5aac036a605313218a31645180/transformed/hal-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/0579464cedea82f0a360bc456b031260/transformed/wpimath-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/698f035007a4afd5e113daeb4d44cb55/transformed/wpiutil-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/353ee3b35468ed95dbc492e686f42c0d/transformed/netcomm-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b0ed1960e067aeb13b1535f938d31876/transformed/chipobject-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/c6fe839b2d51e132e27075691feda1ed/transformed/visa-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b108fb628ad28a09c846c41e13381300/transformed/cameraserver-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/3e58ba47eb6db1c4421671e0ff7e430f/transformed/cscore-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/815c61236f7cd65d520d81cc57d19d8e/transformed/opencv-cpp-4.5.2-1-headers/",
+      "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/afb9bf3b1c00b42060fdf9b0ddb0b698/transformed/wpilibNewCommands-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b08dc32bde1c83d787ea55d01576661a/transformed/wpilibc-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/02760320e61ce7a2e803b618593c1fd1/transformed/ntcore-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/4f7c1855ad1edb3f3a6c73b441426fca/transformed/hal-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/862f500c2d55d3e790ec2640c06d6a2e/transformed/wpimath-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/99de506b995ac0174c905137efe72dde/transformed/wpiutil-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/e72305bc4958a5ef1edced6bf958c69c/transformed/cameraserver-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/190e7ba0770ed22f2e9b3d4f8ec4e360/transformed/cscore-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b7712aa2dd35f23f398accedfc7f784c/transformed/opencv-cpp-4.5.2-1-sources/"
+    ],
+    "allLibSources": [
+      "/Users/felipeivan/.gradle/caches/transforms-3/afb9bf3b1c00b42060fdf9b0ddb0b698/transformed/wpilibNewCommands-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b08dc32bde1c83d787ea55d01576661a/transformed/wpilibc-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/02760320e61ce7a2e803b618593c1fd1/transformed/ntcore-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/4f7c1855ad1edb3f3a6c73b441426fca/transformed/hal-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/862f500c2d55d3e790ec2640c06d6a2e/transformed/wpimath-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/99de506b995ac0174c905137efe72dde/transformed/wpiutil-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/e72305bc4958a5ef1edced6bf958c69c/transformed/cameraserver-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/190e7ba0770ed22f2e9b3d4f8ec4e360/transformed/cscore-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b7712aa2dd35f23f398accedfc7f784c/transformed/opencv-cpp-4.5.2-1-sources/"
+    ],
+    "allLibHeaders": [
+      "/Users/felipeivan/.gradle/caches/transforms-3/37e10808a78725ef15f90d09968bfce5/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/c426ba198e52a20874ecb3f4ec167826/transformed/wpilibc-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/045b4149a1eaae27e4df248c7b7f6532/transformed/ntcore-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/ffb7aa5aac036a605313218a31645180/transformed/hal-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/0579464cedea82f0a360bc456b031260/transformed/wpimath-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/698f035007a4afd5e113daeb4d44cb55/transformed/wpiutil-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/353ee3b35468ed95dbc492e686f42c0d/transformed/netcomm-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b0ed1960e067aeb13b1535f938d31876/transformed/chipobject-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/c6fe839b2d51e132e27075691feda1ed/transformed/visa-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b108fb628ad28a09c846c41e13381300/transformed/cameraserver-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/3e58ba47eb6db1c4421671e0ff7e430f/transformed/cscore-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/815c61236f7cd65d520d81cc57d19d8e/transformed/opencv-cpp-4.5.2-1-headers/",
+      "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/cpp/"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-Og",
+              "-g"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "/Users/felipeivan/.gradle/caches/transforms-3/37e10808a78725ef15f90d09968bfce5/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/c426ba198e52a20874ecb3f4ec167826/transformed/wpilibc-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/045b4149a1eaae27e4df248c7b7f6532/transformed/ntcore-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/ffb7aa5aac036a605313218a31645180/transformed/hal-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/0579464cedea82f0a360bc456b031260/transformed/wpimath-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/698f035007a4afd5e113daeb4d44cb55/transformed/wpiutil-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/353ee3b35468ed95dbc492e686f42c0d/transformed/netcomm-2022.4.0-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/b0ed1960e067aeb13b1535f938d31876/transformed/chipobject-2022.4.0-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/c6fe839b2d51e132e27075691feda1ed/transformed/visa-2022.4.0-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/b108fb628ad28a09c846c41e13381300/transformed/cameraserver-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/3e58ba47eb6db1c4421671e0ff7e430f/transformed/cscore-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/815c61236f7cd65d520d81cc57d19d8e/transformed/opencv-cpp-4.5.2-1-headers/",
+          "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/cpp/"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "/Users/felipeivan/wpilib/2022/roborio/bin/arm-frc2022-linux-gnueabi-g++",
+    "cPath": "/Users/felipeivan/wpilib/2022/roborio/bin/arm-frc2022-linux-gnueabi-gcc",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "/Users/felipeivan/.gradle/caches/transforms-3/37e10808a78725ef15f90d09968bfce5/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/c426ba198e52a20874ecb3f4ec167826/transformed/wpilibc-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/045b4149a1eaae27e4df248c7b7f6532/transformed/ntcore-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/ffb7aa5aac036a605313218a31645180/transformed/hal-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/0579464cedea82f0a360bc456b031260/transformed/wpimath-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/698f035007a4afd5e113daeb4d44cb55/transformed/wpiutil-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/353ee3b35468ed95dbc492e686f42c0d/transformed/netcomm-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b0ed1960e067aeb13b1535f938d31876/transformed/chipobject-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/c6fe839b2d51e132e27075691feda1ed/transformed/visa-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b108fb628ad28a09c846c41e13381300/transformed/cameraserver-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/3e58ba47eb6db1c4421671e0ff7e430f/transformed/cscore-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/815c61236f7cd65d520d81cc57d19d8e/transformed/opencv-cpp-4.5.2-1-headers/",
+      "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/afb9bf3b1c00b42060fdf9b0ddb0b698/transformed/wpilibNewCommands-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b08dc32bde1c83d787ea55d01576661a/transformed/wpilibc-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/02760320e61ce7a2e803b618593c1fd1/transformed/ntcore-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/4f7c1855ad1edb3f3a6c73b441426fca/transformed/hal-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/862f500c2d55d3e790ec2640c06d6a2e/transformed/wpimath-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/99de506b995ac0174c905137efe72dde/transformed/wpiutil-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/e72305bc4958a5ef1edced6bf958c69c/transformed/cameraserver-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/190e7ba0770ed22f2e9b3d4f8ec4e360/transformed/cscore-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b7712aa2dd35f23f398accedfc7f784c/transformed/opencv-cpp-4.5.2-1-sources/"
+    ],
+    "allLibSources": [
+      "/Users/felipeivan/.gradle/caches/transforms-3/afb9bf3b1c00b42060fdf9b0ddb0b698/transformed/wpilibNewCommands-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b08dc32bde1c83d787ea55d01576661a/transformed/wpilibc-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/02760320e61ce7a2e803b618593c1fd1/transformed/ntcore-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/4f7c1855ad1edb3f3a6c73b441426fca/transformed/hal-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/862f500c2d55d3e790ec2640c06d6a2e/transformed/wpimath-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/99de506b995ac0174c905137efe72dde/transformed/wpiutil-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/e72305bc4958a5ef1edced6bf958c69c/transformed/cameraserver-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/190e7ba0770ed22f2e9b3d4f8ec4e360/transformed/cscore-cpp-2022.3.1-sources/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b7712aa2dd35f23f398accedfc7f784c/transformed/opencv-cpp-4.5.2-1-sources/"
+    ],
+    "allLibHeaders": [
+      "/Users/felipeivan/.gradle/caches/transforms-3/37e10808a78725ef15f90d09968bfce5/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/c426ba198e52a20874ecb3f4ec167826/transformed/wpilibc-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/045b4149a1eaae27e4df248c7b7f6532/transformed/ntcore-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/ffb7aa5aac036a605313218a31645180/transformed/hal-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/0579464cedea82f0a360bc456b031260/transformed/wpimath-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/698f035007a4afd5e113daeb4d44cb55/transformed/wpiutil-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/353ee3b35468ed95dbc492e686f42c0d/transformed/netcomm-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b0ed1960e067aeb13b1535f938d31876/transformed/chipobject-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/c6fe839b2d51e132e27075691feda1ed/transformed/visa-2022.4.0-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/b108fb628ad28a09c846c41e13381300/transformed/cameraserver-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/3e58ba47eb6db1c4421671e0ff7e430f/transformed/cscore-cpp-2022.3.1-headers/",
+      "/Users/felipeivan/.gradle/caches/transforms-3/815c61236f7cd65d520d81cc57d19d8e/transformed/opencv-cpp-4.5.2-1-headers/",
+      "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/cpp/"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++17",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-rdynamic",
+              "-pthread",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "/Users/felipeivan/.gradle/caches/transforms-3/37e10808a78725ef15f90d09968bfce5/transformed/wpilibNewCommands-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/c426ba198e52a20874ecb3f4ec167826/transformed/wpilibc-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/045b4149a1eaae27e4df248c7b7f6532/transformed/ntcore-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/ffb7aa5aac036a605313218a31645180/transformed/hal-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/0579464cedea82f0a360bc456b031260/transformed/wpimath-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/698f035007a4afd5e113daeb4d44cb55/transformed/wpiutil-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/353ee3b35468ed95dbc492e686f42c0d/transformed/netcomm-2022.4.0-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/b0ed1960e067aeb13b1535f938d31876/transformed/chipobject-2022.4.0-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/c6fe839b2d51e132e27075691feda1ed/transformed/visa-2022.4.0-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/b108fb628ad28a09c846c41e13381300/transformed/cameraserver-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/3e58ba47eb6db1c4421671e0ff7e430f/transformed/cscore-cpp-2022.3.1-headers/",
+          "/Users/felipeivan/.gradle/caches/transforms-3/815c61236f7cd65d520d81cc57d19d8e/transformed/opencv-cpp-4.5.2-1-headers/",
+          "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/cpp/"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "/Users/felipeivan/Desktop/ROBOT/RObot2/src/main/include/"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++17",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-rdynamic",
+          "-pthread",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]
